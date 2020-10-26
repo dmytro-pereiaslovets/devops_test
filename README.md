@@ -3,6 +3,8 @@
 ```
  $ git push --all git@github.com:user.name/repo.name.git
 ```  
+###### Best use with empty remote repo in github / gitlab 
+
 
 # Graph
 
