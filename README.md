@@ -14,5 +14,6 @@ $ git log --all --decorate --oneline --graph
 ## GitHub graph
 
 For GitHub Network graph you need to open:
+
 <https://github.com/dmytro-pereiaslovets/devops_test/network> 
 
