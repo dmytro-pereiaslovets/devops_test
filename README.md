@@ -6,12 +6,12 @@
 
 # Graph
 
-## Local git branch graphs in terminal 
+### Local git branch graphs in terminal 
 
 ```
 $ git log --all --decorate --oneline --graph
 ```
-## GitHub graph
+### GitHub graph
 
 For GitHub Network graph you need to open:
 
@@ -19,7 +19,7 @@ For GitHub Network graph you need to open:
 
 # Current git branch in Bash prompt
 
-## Add to `~/.bashrc`
+### Add to `~/.bashrc`
 
 ```
 # Show git branch name
@@ -40,7 +40,7 @@ PS1="$GREEN\u$NO_COLOR:$BLUE\w$YELLOW\$(parse_git_branch)$NO_COLOR\$ "
 # PS1="$GREEN\u@\h$NO_COLOR:$BLUE\w$YELLOW\$(parse_git_branch)$NO_COLOR\$ "
 
 ```
-## Apply changes
+### Apply changes in `~/.bashrc`
 
 ```
 $ source ~/.bashrc
